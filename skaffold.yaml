@@ -2,7 +2,7 @@ apiVersion: skaffold/v1beta2
 kind: Config
 build:
   artifacts:
-  - image: srinivs@gmail.com/jenkinsx-springboot-example
+  - image: agilerules/jenkinsx-springboot-example
     context: .
     docker: {}
   tagPolicy:
