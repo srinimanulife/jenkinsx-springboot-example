@@ -1,5 +1,5 @@
 {
   "credHelpers": {
-        "{admin@agilerulesconsultants.com}.dkr.ecr.{us-east-1}.amazonaws.com": "ecr-login"
+        "admin@agilerulesconsultants.com.dkr.ecr.us-east-1.amazonaws.com": "ecr-login"
   }
 }
